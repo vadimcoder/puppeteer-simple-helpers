@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-simple-helpers",
+  "version": "1.0.0",
+  "description": "Puppeteer helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinogradov/puppeteer-simple-helpers.git"
+  },
+  "author": "Vadim Vinogradov <vadim@vinogr.com> (https://github.com/vinogradov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinogradov/puppeteer-simple-helpers/issues"
+  },
+  "homepage": "https://github.com/vinogradov/puppeteer-simple-helpers#readme"
+}
