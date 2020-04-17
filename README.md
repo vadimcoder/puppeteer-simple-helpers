@@ -1,5 +1,11 @@
 # puppeteer-simple-helpers
 
+```
+npm install puppeteer-simple-helpers
+```
+
+## Functions:
+
 ```javascript
 /**
  * BEFORE:
