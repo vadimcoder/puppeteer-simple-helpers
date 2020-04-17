@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-simple-helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Puppeteer helpers",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,9 @@
   },
   "author": "Vadim Vinogradov <vadim@vinogr.com> (https://github.com/vinogradov)",
   "license": "MIT",
+  "keywords": [
+    "puppeteer"
+  ],
   "bugs": {
     "url": "https://github.com/vinogradov/puppeteer-simple-helpers/issues"
   },
